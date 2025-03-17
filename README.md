@@ -79,6 +79,10 @@ El SEO semántico va más allá de las palabras clave tradicionales, centrándos
   - inurl:invitaciones-de-boda-digitales
   - intitle: invitaciones-de-boda-digitales
 
+  ![bg right:30%](./img/contar.png)
+
+- En Bing te da los resultados aproximados para cada búsqueda. También hay herramientas gratuitas que te dan esta información 
+
 ---
 
 ## 💡 5. Detectar oportunidades
